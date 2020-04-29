@@ -1,2 +1,4 @@
 fachci to 2
 riadok 2 od michalrakus-y
+riadok 3 od michalrakus
+riadok 4 od michalrakus-y
