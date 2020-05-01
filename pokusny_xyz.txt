@@ -7,3 +7,4 @@ riadok 6 local
 riadok 7 local
 riadok 8 local (este necommitnute)
 riadok 6 pre brenchu 2 ***
+riadok 9 pokus
