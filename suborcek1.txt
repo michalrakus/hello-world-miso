@@ -3,3 +3,4 @@ riadok 2 - zmena od michalrakus-y
 riadok 3 - od michalrakus-y
 riadok 4 - od michalrakus-y
 riadok 5 - od michalrakus-y
+riadok 6 - od michalrakus-y
