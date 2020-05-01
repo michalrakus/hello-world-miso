@@ -1,2 +1,3 @@
 Pokusny suborcek 1 - text
 riadok 2 - zmena od michalrakus-y
+riadok 3 - od michalrakus-y
