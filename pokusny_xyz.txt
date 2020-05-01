@@ -3,3 +3,4 @@ riadok 2 od michalrakus-y
 riadok 3 od michalrakus
 riadok 4 od michalrakus-y
 riadok 5 priamo do master
+riadok 6 pre brenchu 2 ***
