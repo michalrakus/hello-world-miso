@@ -5,4 +5,4 @@ riadok 4 od michalrakus-y
 riadok 5 priamo do master
 riadok 6 local
 riadok 7 local
-
+riadok 8 local (este necommitnute)
